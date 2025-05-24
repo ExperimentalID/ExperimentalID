@@ -1,23 +1,46 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Prakhar+Chaturvedi+%F0%9F%91%8B;AI+Student+%26+Developer+%F0%9F%92%BB;Let's+Create+Together+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ExperimentalID&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+# 👋 Hi, I'm Prakhar Chaturvedi
 
 ## 🎓 About Me
-```python
-class AIStudent:
-    def __init__(self):
-        self.name = "Prakhar Chaturvedi"
-        self.role = "AI Student & Full Stack Developer"
-        self.location = "Greater Noida"
-        self.education = "B.Tech in Artificial Intelligence"
-        self.interests = ["AI/ML", "Web Development", "Innovation"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's create something amazing together!")
+- 🎯 B.Tech student specializing in Artificial Intelligence
+- 📍 Based in Greater Noida
+- 💻 Passionate about creating innovative web solutions
+- 🌱 Currently exploring Next.js, AI/ML, and Full Stack Development
 
-me = AIStudent()
-me.say_hi()
+## 🛠️ Tech Stack
+### Languages & Frameworks
+- Python | JavaScript | TypeScript
+- Next.js | React | Node.js
+- TailwindCSS | HTML | CSS
+
+### AI/ML
+- TensorFlow | PyTorch
+- scikit-learn | NumPy | Pandas
+
+### Tools & Technologies
+- Git | VS Code
+- Vercel | GitHub
+- MongoDB | PostgreSQL
+
+## 🚀 Featured Projects
+
+### PortCollab - Modern Portfolio Website
+- 🎨 Interactive UI with smooth animations
+- 🤖 AI-powered chat integration
+- 📱 Responsive design with Tailwind CSS
+- 🌙 Dark mode support
+- ⚡ Deployed on Vercel
+
+## 📬 Contact
+
+*Let's connect and create something amazing together!*
+
+- 📧 Email: collab.prakhar0427@gmail.com
+- 💼 LinkedIn: [Prakhar Chaturvedi](https://linkedin.com/in/prakc7)
+- 🐱 GitHub: [ExperimentalID](https://github.com/ExperimentalID)
+- 🚀 Vercel: [PortCollab](https://vercel.com/portcollab)
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Let's build something amazing together.</i>
+</p>
