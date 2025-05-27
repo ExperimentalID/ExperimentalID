@@ -36,8 +36,8 @@
 
 - 📧 Email: collab.prakhar0427@gmail.com
 - 💼 LinkedIn: [Prakhar Chaturvedi](https://linkedin.com/in/prakc7)
-- 🐱 GitHub: [ExperimentalID](https://github.com/ExperimentalID)
-- 🚀 Vercel: [PortCollab](https://vercel.com/portcollab)
+- 🐱 GitHub: [PrakC7](https://github.com/PrakC7)
+- 🚀 Vercel: [PrakC7](https://vercel.com/prakc7)
 
 ---
 
